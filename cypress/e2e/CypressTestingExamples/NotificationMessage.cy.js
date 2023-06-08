@@ -1,6 +1,4 @@
 /// <reference types="cypress" />
-
-
 describe('Notification Message', ()=>{
     it('Notification Message',()=>{
 
