@@ -8,9 +8,5 @@ describe('Notification Message', ()=>{
         cy.contains('Red').click()
         cy.get("label[for='yellow']").click()
 
-      
-
-        
-    
     })
 })
